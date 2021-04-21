@@ -1,3 +1,5 @@
+
+![bizz](https://user-images.githubusercontent.com/82809590/115516311-56018b00-a2c9-11eb-983f-bfeafec18abf.jpg)
 ---
 title: Landing
 layout: landing
